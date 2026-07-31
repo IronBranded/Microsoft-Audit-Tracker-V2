@@ -46,6 +46,8 @@ capturing the evidence an IR team would need. It provides a unified view of audi
 health, identity posture, defensive stack licensing, and AI governance — all in a single run
 with no manual API queries.
 
+<img width="499" height="336" alt="image" src="https://github.com/user-attachments/assets/f9ad419a-1dc4-48e9-ac8c-bb5774a00d3f" />
+
 ---
 
 ## FILE STRUCTURE
